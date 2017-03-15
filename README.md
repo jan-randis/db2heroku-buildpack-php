@@ -1,3 +1,11 @@
+                    ======================================================================
+                                IMPORTANT INFORMATION:
+                                
+                     This PHP-BUILDPACK IS OUT OF DATE. 
+                     USE https://github.com/ibmdb/php-buildpack INSTEAD OF THIS BUILDPACK.
+
+                    ======================================================================
+                    
 Apache+PHP build pack
 =======================
 
